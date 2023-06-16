@@ -1,7 +1,5 @@
 # seminar10
 
-# seminar9
-
 Building the Project with CMake
 
 Cloning the Repository
